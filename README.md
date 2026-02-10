@@ -2,21 +2,7 @@
 
 ###
 
-<div align="center">
-  <a href="dariocatarinodesenaneto@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="www.linkedin.com/in/dario-sena-dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/heyy.dario?igsh=MWgyNHg2ejFieGowNQ==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gitlab logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-</div>
+<div align="center"><a href="mailto:dariocatarinodesenaneto@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" /></a><a href="https://www.linkedin.com/in/dario-sena-dev" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /></a><a href="https://www.instagram.com/heyy.dario?igsh=MWgyNHg2ejFieGowNQ==" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" /></a><a href="SEU_LINK_GITLAB_AQUI" target="_blank"><img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gitlab logo" /></a><a href="SEU_LINK_DEVTO_AQUI" target="_blank"><img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo" /></a><a href="SEU_LINK_TWITTER_AQUI" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" /></a><a href="SEU_LINK_YOUTUBE_AQUI" target="_blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" /></a></div>
 
 ###
 
@@ -51,8 +37,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=senna-devv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=senna-devv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=senna-devv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=contribs,prs&v=3" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senna-devv&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=8&v=3" />
 </div>
 
 ###
