@@ -37,13 +37,6 @@
 ###
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=senna-devv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=contribs,prs&v=3" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senna-devv&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=8&v=3" />
-</div>
-
-###
-
-<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/senna-devv/senna-devv/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/senna-devv/senna-devv/output/github-contribution-grid-snake.svg">
