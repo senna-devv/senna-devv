@@ -3,19 +3,17 @@
 ###
 
 <div align="center">
-  <a href="dariocatarinodesenaneto@gmail.com" target="_blank">
+  <a href="mailto:dariocatarinodesenaneto@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <a href="www.linkedin.com/in/dario-sena-dev" target="_blank">
+  <a href="https://www.linkedin.com/in/dario-sena-dev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/heyy.dario?igsh=MWgyNHg2ejFieGowNQ==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gitlab logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
 </div>
 
 ###
@@ -54,7 +52,7 @@
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="180" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=senna-devv&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
   />
@@ -62,11 +60,12 @@
   <img 
     align="left" 
     alt="Top Langs" 
-    height="200" 
+    height="180" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=senna-devv&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=8" 
   />
 </p>
-<br clear="left"/>
+
+<br clear="both" />
 
 ###
 
